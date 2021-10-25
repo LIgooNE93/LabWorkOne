@@ -8,4 +8,6 @@ class Math() // class name
      public void setA(int a){ this.a = a;} // method this class setup value a
      public void setB(int b){ this.b = b;} // method this class setup value b
      public int getTotal() {return this.a + this.b;} // method return total value
+     
+     //This class created from OmSTU
 }
